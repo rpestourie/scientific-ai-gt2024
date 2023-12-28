@@ -1,6 +1,6 @@
 Raphaël Pestourie, Peng Chen, Ebeneser Fanijo, Yan Wang
 
-Jan 16th, 2023 at Georgia Tech
+January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 
 **Brief Description** This one-day workshop will be held at Georgia Tech on January 16th, 2024 and convene experts in computational mathematics, statistics, data science, and application domain scientists across science and engineering to address the foundational topics of scientific AI for the prediction and optimization of complex systems (such as electromagnetic, corrosion science). The agenda emphasizes transcending conventional forward simulations and predictions to realize the optimization of complex systems at a large scale by harnessing the power of scientific AI. 
  
