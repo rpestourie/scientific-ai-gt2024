@@ -10,7 +10,7 @@ The methodologies of Scientific AI utilize the robust nonlinear fitting capabili
 
 ## Schedule
 
-### Session
+### Session 1
 
 - 8:45 AM - 9:00 AM: opening remarks by Srinivas Aluru & Haesun Park
 - 9:00 AM - 9:35 AM: Speaker 1 (30 mins presentation + 5 mins Q&A) Prasanna Balaprakash
@@ -18,23 +18,35 @@ The methodologies of Scientific AI utilize the robust nonlinear fitting capabili
 - 10:00 AM - 10:25 AM: Speaker 3 (20 mins presentation + 5 mins Q&A) Peng Chen
 
 ### Morning Break
+
 - 10:25 AM - 10:45 AM: Break (20 mins)
 
-|Session 2| |
-|10:45 AM - 11:20 AM: Speaker 4 (30 mins presentation + 5 mins Q&A)|Bart van Bloemen Waander|
-|11:20 AM - 11:45 AM: Speaker 5 (20 mins presentation + 5 mins Q&A)|Yan Wang|
-|11:45 AM - 12:10 PM: Speaker 6 (20 mins presentation + 5 mins Q&A)|Ebeneser Fanijo|
-|Lunch Break| |
-|12:10 PM - 1:10 PM: Lunch and Networking| |
-|Session 3| |
-|1:10 PM - 1:45 PM: Speaker 7 (30 mins presentation + 5 mins Q&A)|Guannan Zhang|
-|1:45 PM - 2:10 PM: Speaker 8 (20 mins presentation + 5 mins Q&A)|Lars Ruthotto|
-|2:10 PM - 2:35 PM: Speaker 9 (20 mins presentation + 5 mins Q&A)|Haomin ZhouAfternoon Break| |
-|2:35 PM - 2:55 PM: Break (20 mins)| |
-|Session 4| |
-|2:55 PM - 3:30 PM: Speaker 10 (30 mins presentation + 5 mins Q&A)|Aditi Krishnapriyan|
-|3:30 PM - 3:55 PM: Speaker 11 (20 mins presentation + 5 mins Q&A)|Bo Zhu|
-|3:55 PM - 4:20 PM: Speaker 12 (20 mins presentation + 5 mins Q&A)|Bolei Deng|
-|Panel Discussion and closing | |
-|4:20 PM - 5:30 PM: Panel Discussion with Selected Speakers (60 mins)| |
+### Session 2
 
+- 10:45 AM - 11:20 AM: Speaker 4 (30 mins presentation + 5 mins Q&A) Bart van Bloemen Waander
+- 11:20 AM - 11:45 AM: Speaker 5 (20 mins presentation + 5 mins Q&A) Yan Wang
+- 11:45 AM - 12:10 PM: Speaker 6 (20 mins presentation + 5 mins Q&A)Ebeneser Fanijo
+
+### Lunch Break
+
+- 12:10 PM - 1:10 PM: Lunch and Networking
+
+### Session 3
+
+- 1:10 PM - 1:45 PM: Speaker 7 (30 mins presentation + 5 mins Q&A) Aditi Krishnapriyan
+- 1:45 PM - 2:10 PM: Speaker 8 (20 mins presentation + 5 mins Q&A) Bo Zhu
+- 2:10 PM - 2:35 PM: Speaker 9 (20 mins presentation + 5 mins Q&A) Bolei Deng
+
+### Afternoon Break
+
+- 2:35 PM - 2:55 PM: Break (20 mins)
+
+### Session 3
+
+- 2:55 PM - 3:30 PM: Speaker 10 (30 mins presentation + 5 mins Q&A) Guannan Zhang
+- 3:30 PM - 3:55 PM: Speaker 11 (20 mins presentation + 5 mins Q&A) Lars Ruthotto
+- 3:55 PM - 4:20 PM: Speaker 12 (20 mins presentation + 5 mins Q&A) Haomin Zhou
+
+### Panel Discussion and closing 
+
+- 4:20 PM - 5:30 PM: Panel Discussion with Selected Speakers (60 mins)
