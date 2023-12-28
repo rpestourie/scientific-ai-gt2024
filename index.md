@@ -10,14 +10,16 @@ The methodologies of Scientific AI utilize the robust nonlinear fitting capabili
 
 ## Schedule
 
-|Session 1| |
-|:----|:----|
-|8:45 AM - 9:00 AM: opening remarks by Srinivas Aluru & Haesun Park| |
-|9:00 AM - 9:35 AM: Speaker 1 (30 mins presentation + 5 mins Q&A)|Prasanna Balaprakash|
-|9:35 AM - 10:00 AM: Speaker 2 (20 mins presentation + 5 mins Q&A)|Raphaël Pestourie|
-|10:00 AM - 10:25 AM: Speaker 3 (20 mins presentation + 5 mins Q&A)|Peng Chen|
-|Morning Break| |
-|10:25 AM - 10:45 AM: Break (20 mins)| |
+### Session
+
+- 8:45 AM - 9:00 AM: opening remarks by Srinivas Aluru & Haesun Park
+- 9:00 AM - 9:35 AM: Speaker 1 (30 mins presentation + 5 mins Q&A) Prasanna Balaprakash
+- 9:35 AM - 10:00 AM: Speaker 2 (20 mins presentation + 5 mins Q&A) Raphaël Pestourie
+- 10:00 AM - 10:25 AM: Speaker 3 (20 mins presentation + 5 mins Q&A) Peng Chen
+
+### Morning Break
+- 10:25 AM - 10:45 AM: Break (20 mins)
+
 |Session 2| |
 |10:45 AM - 11:20 AM: Speaker 4 (30 mins presentation + 5 mins Q&A)|Bart van Bloemen Waander|
 |11:20 AM - 11:45 AM: Speaker 5 (20 mins presentation + 5 mins Q&A)|Yan Wang|
