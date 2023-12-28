@@ -17,9 +17,7 @@ The methodologies of Scientific AI utilize the robust nonlinear fitting capabili
 - 9:35 AM - 10:00 AM: Speaker 2 (20 mins presentation + 5 mins Q&A) Raphaël Pestourie
 - 10:00 AM - 10:25 AM: Speaker 3 (20 mins presentation + 5 mins Q&A) Peng Chen
 
-### Morning Break
-
-- 10:25 AM - 10:45 AM: Break (20 mins)
+**Morning Break** 10:25 AM - 10:45 AM: Break (20 mins)
 
 ### Session 2
 
@@ -27,9 +25,7 @@ The methodologies of Scientific AI utilize the robust nonlinear fitting capabili
 - 11:20 AM - 11:45 AM: Speaker 5 (20 mins presentation + 5 mins Q&A) Yan Wang
 - 11:45 AM - 12:10 PM: Speaker 6 (20 mins presentation + 5 mins Q&A)Ebeneser Fanijo
 
-### Lunch Break
-
-- 12:10 PM - 1:10 PM: Lunch and Networking
+**Lunch Break** 12:10 PM - 1:10 PM: Lunch and Networking
 
 ### Session 3
 
@@ -37,9 +33,7 @@ The methodologies of Scientific AI utilize the robust nonlinear fitting capabili
 - 1:45 PM - 2:10 PM: Speaker 8 (20 mins presentation + 5 mins Q&A) Bo Zhu
 - 2:10 PM - 2:35 PM: Speaker 9 (20 mins presentation + 5 mins Q&A) Bolei Deng
 
-### Afternoon Break
-
-- 2:35 PM - 2:55 PM: Break (20 mins)
+**Afternoon Break** 2:35 PM - 2:55 PM: Break (20 mins)
 
 ### Session 3
 
