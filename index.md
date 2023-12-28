@@ -49,4 +49,4 @@ The methodologies of Scientific AI utilize the robust nonlinear fitting capabili
 
 ### Panel Discussion and closing 
 
-- 4:20 PM - 5:30 PM: Panel Discussion with Selected Speakers (60 mins)
+- 4:20 PM - 5:20 PM: Panel Discussion with Selected Speakers (60 mins)
