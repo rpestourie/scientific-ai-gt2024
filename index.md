@@ -9,9 +9,9 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 ### Session 1
 
 - 8:45 AM - 9:00 AM: opening remarks by Srinivas Aluru & Haesun Park
-- 9:00 AM - 9:35 AM: Speaker 1 (30 mins presentation + 5 mins Q&A) ![Prasanna Balaprakash, ORNL](https://www.ornl.gov/staff-profile/prasanna-balaprakash)
-- 9:35 AM - 10:00 AM: Speaker 2 (20 mins presentation + 5 mins Q&A) ![Raphaël Pestourie, GT](https://www.raphaelpestourie.com/)
-- 10:00 AM - 10:25 AM: Speaker 3 (20 mins presentation + 5 mins Q&A) ![Peng Chen, GT](https://faculty.cc.gatech.edu/~pchen402/)
+- 9:00 AM - 9:35 AM: Speaker 1 (30 mins presentation + 5 mins Q&A) [Prasanna Balaprakash, ORNL](https://www.ornl.gov/staff-profile/prasanna-balaprakash)
+- 9:35 AM - 10:00 AM: Speaker 2 (20 mins presentation + 5 mins Q&A) [Raphaël Pestourie, GT](https://www.raphaelpestourie.com/)
+- 10:00 AM - 10:25 AM: Speaker 3 (20 mins presentation + 5 mins Q&A) [Peng Chen, GT](https://faculty.cc.gatech.edu/~pchen402/)
 
 **Morning Break** 10:25 AM - 10:45 AM: Break (20 mins)
 
