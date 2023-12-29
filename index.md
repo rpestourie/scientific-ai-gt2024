@@ -31,7 +31,7 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 
 **Afternoon Break** 2:35 PM - 2:55 PM (20 mins)
 
-### Session 3
+### Session 4
 
 - 2:55 PM - 3:30 PM: [Guannan Zhang, ORNL](https://www.ornl.gov/staff-profile/guannan-zhang) (30 mins + 5 mins Q&A)
 - 3:30 PM - 3:55 PM: [Lars Ruthotto, Emory Math](https://www.math.emory.edu/~lruthot/) (20 mins + 5 mins Q&A)
