@@ -10,32 +10,32 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 
 - 8:45 AM - 9:00 AM: opening remarks by Srinivas Aluru & Haesun Park
 - 9:00 AM - 9:35 AM: Speaker 1 (30 mins presentation + 5 mins Q&A) [Prasanna Balaprakash, ORNL](https://www.ornl.gov/staff-profile/prasanna-balaprakash)
-- 9:35 AM - 10:00 AM: Speaker 2 (20 mins presentation + 5 mins Q&A) [Raphaël Pestourie, GT](https://www.raphaelpestourie.com/)
-- 10:00 AM - 10:25 AM: Speaker 3 (20 mins presentation + 5 mins Q&A) [Peng Chen, GT](https://faculty.cc.gatech.edu/~pchen402/)
+- 9:35 AM - 10:00 AM: Speaker 2 (20 mins presentation + 5 mins Q&A) [Raphaël Pestourie, GT CSE](https://www.raphaelpestourie.com/)
+- 10:00 AM - 10:25 AM: Speaker 3 (20 mins presentation + 5 mins Q&A) [Peng Chen, GT CSE](https://faculty.cc.gatech.edu/~pchen402/)
 
-**Morning Break** 10:25 AM - 10:45 AM: Break (20 mins)
+**Morning Break** 10:25 AM - 10:45 AM(20 mins)
 
 ### Session 2
 
-- 10:45 AM - 11:20 AM: Speaker 4 (30 mins presentation + 5 mins Q&A) Bart van Bloemen Waander
-- 11:20 AM - 11:45 AM: Speaker 5 (20 mins presentation + 5 mins Q&A) Yan Wang
-- 11:45 AM - 12:10 PM: Speaker 6 (20 mins presentation + 5 mins Q&A)Ebeneser Fanijo
+- 10:45 AM - 11:20 AM: Speaker 4 (30 mins presentation + 5 mins Q&A) [Bart van Bloemen Waander, Sandia](https://www.sandia.gov/ccr/staff/bart-g-van-bloemen-waanders/)
+- 11:20 AM - 11:45 AM: Speaker 5 (20 mins presentation + 5 mins Q&A) [Yan Wang, GT MechE](https://research.gatech.edu/yan-wang)
+- 11:45 AM - 12:10 PM: Speaker 6 (20 mins presentation + 5 mins Q&A) [Ebeneser Fanijo, GT BC](https://bc.gatech.edu/people/ebenezer-fanijo)
 
-**Lunch Break** 12:10 PM - 1:10 PM: Lunch and Networking
-
-### Session 3
-
-- 1:10 PM - 1:45 PM: Speaker 7 (30 mins presentation + 5 mins Q&A) Aditi Krishnapriyan
-- 1:45 PM - 2:10 PM: Speaker 8 (20 mins presentation + 5 mins Q&A) Bo Zhu
-- 2:10 PM - 2:35 PM: Speaker 9 (20 mins presentation + 5 mins Q&A) Bolei Deng
-
-**Afternoon Break** 2:35 PM - 2:55 PM: Break (20 mins)
+**Lunch Break and Networking** 12:10 PM - 1:10 PM (60 mins)
 
 ### Session 3
 
-- 2:55 PM - 3:30 PM: Speaker 10 (30 mins presentation + 5 mins Q&A) Guannan Zhang
-- 3:30 PM - 3:55 PM: Speaker 11 (20 mins presentation + 5 mins Q&A) Lars Ruthotto
-- 3:55 PM - 4:20 PM: Speaker 12 (20 mins presentation + 5 mins Q&A) Haomin Zhou
+- 1:10 PM - 1:45 PM: Speaker 7 (30 mins presentation + 5 mins Q&A) [Aditi Krishnapriyan, UC Berkeley](https://a1k12.github.io/)
+- 1:45 PM - 2:10 PM: Speaker 8 (20 mins presentation + 5 mins Q&A) [Bo Zhu, GT IC](https://faculty.cc.gatech.edu/~bozhu/)
+- 2:10 PM - 2:35 PM: Speaker 9 (20 mins presentation + 5 mins Q&A) [Bolei Deng, AE](https://www.boleideng.com/)
+
+**Afternoon Break** 2:35 PM - 2:55 PM (20 mins)
+
+### Session 3
+
+- 2:55 PM - 3:30 PM: Speaker 10 (30 mins presentation + 5 mins Q&A) [Guannan Zhang, ORNL](https://www.ornl.gov/staff-profile/guannan-zhang)
+- 3:30 PM - 3:55 PM: Speaker 11 (20 mins presentation + 5 mins Q&A) [Lars Ruthotto, Emory Math](https://www.math.emory.edu/~lruthot/)
+- 3:55 PM - 4:20 PM: Speaker 12 (20 mins presentation + 5 mins Q&A) [Haomin Zhou, GT Math](https://hmzhou.math.gatech.edu/)
 
 ### Panel Discussion and closing 
 
