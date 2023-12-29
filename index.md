@@ -18,8 +18,8 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 ### Session 2
 
 - 10:45 AM - 11:20 AM: [Bart van Bloemen Waander, Sandia](https://www.sandia.gov/ccr/staff/bart-g-van-bloemen-waanders/) (30 mins + 5 mins Q&A)
-- 11:20 AM - 11:45 AM: [Yan Wang, GT MechE](https://research.gatech.edu/yan-wang) (20 mins + 5 mins Q&A)
-- 11:45 AM - 12:10 PM: [Ebeneser Fanijo, GT BC](https://bc.gatech.edu/people/ebenezer-fanijo) (20 mins + 5 mins Q&A)
+- 11:20 AM - 11:45 AM: [Ebeneser Fanijo, GT BC](https://bc.gatech.edu/people/ebenezer-fanijo) (20 mins + 5 mins Q&A)
+- 11:45 AM - 12:10 PM: [Yan Wang, GT MechE](https://research.gatech.edu/yan-wang) (20 mins + 5 mins Q&A)
 
 **Lunch Break and Networking** 12:10 PM - 1:10 PM (60 mins)
 
