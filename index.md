@@ -30,21 +30,22 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 
 ### Session 3
 
-- 1:30 PM - 2:05 PM: [Aditi Krishnapriyan, UC Berkeley](https://a1k12.github.io/) (30 mins + 5 mins Q&A)
+- 1:30 PM - 2:05 PM: [Panos Stinis](https://www.pnnl.gov/people/panos-stinis) (30 mins + 5 mins Q&A)
 - 2:05 PM - 2:20 PM: [Bo Zhu, GT IC](https://faculty.cc.gatech.edu/~bozhu/) (10 mins + 5 mins Q&A)
 - 2:20 PM - 2:35 PM: [Bolei Deng, AE](https://www.boleideng.com/) (10 mins + 5 mins Q&A)
+- 2:35 PM - 2:50 PM: [Yan Wang, GT MechE](https://research.gatech.edu/yan-wang) (10 mins + 5 mins Q&A)
 
-**Afternoon Break** 2:35 PM - 2:55 PM (20 mins)
+**Afternoon Break** 2:50 PM -3:10 PM (20 mins)
 
 ### Session 4
 
-- 2:55 PM - 3:30 PM: [Guannan Zhang, ORNL](https://www.ornl.gov/staff-profile/guannan-zhang) (30 mins + 5 mins Q&A)
-- 3:30 PM - 3:45 PM: [Yan Wang, GT MechE](https://research.gatech.edu/yan-wang) (10 mins + 5 mins Q&A)
-- 3:45 PM - 4:00 PM: [Haomin Zhou, GT Math](https://hmzhou.math.gatech.edu/) (10 mins + 5 mins Q&A)
+- 3:10 PM - 3:45 PM: [Guannan Zhang, ORNL](https://www.ornl.gov/staff-profile/guannan-zhang) (30 mins + 5 mins Q&A)
+- 3:45 PM - 4:10 PM: [Aditi Krishnapriyan, UC Berkeley](https://a1k12.github.io/) (20 mins + 5 mins Q&A)
+- 4:10 PM - 4:25 PM: [Haomin Zhou, GT Math](https://hmzhou.math.gatech.edu/) (10 mins + 5 mins Q&A)
 
 ### Panel Discussion and closing 
 
-- 4:00 PM - 5:10 PM: Panel Discussion with Selected Speakers (60 mins)
+- 4:25 PM - 5:25 PM: Panel Discussion with Selected Speakers (60 mins)
 
 ## Workshop Details
 
