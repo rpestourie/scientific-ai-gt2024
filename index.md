@@ -12,7 +12,7 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 
 - 9:00 AM - 9:35 AM: [Prasanna Balaprakash, ORNL](https://www.ornl.gov/staff-profile/prasanna-balaprakash) (30 mins + 5 mins Q&A)
 - 9:35 AM - 9:50 AM: [Raphaël Pestourie, GT CSE](https://www.raphaelpestourie.com/) (10 mins + 5 mins Q&A)
-- 9:50 AM - 10:05 AM: [Peng Chen, GT CSE](https://faculty.cc.gatech.edu/~pchen402/) (10 mins + 5 mins Q&A)
+- 9:50 AM - 10:05 AM: [Haomin Zhou, GT Math](https://hmzhou.math.gatech.edu/) (10 mins + 5 mins Q&A)
 
 **Morning Break** 10:05 AM - 10:25 AM (20 mins)
 
@@ -41,7 +41,7 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 
 - 3:10 PM - 3:45 PM: [Guannan Zhang, ORNL](https://www.ornl.gov/staff-profile/guannan-zhang) (30 mins + 5 mins Q&A)
 - 3:45 PM - 4:10 PM: [Aditi Krishnapriyan, UC Berkeley](https://a1k12.github.io/) (20 mins + 5 mins Q&A)
-- 4:10 PM - 4:25 PM: [Haomin Zhou, GT Math](https://hmzhou.math.gatech.edu/) (10 mins + 5 mins Q&A)
+- 4:10 PM - 4:25 PM: [Peng Chen, GT CSE](https://faculty.cc.gatech.edu/~pchen402/) (10 mins + 5 mins Q&A)
 
 ### Panel Discussion and closing 
 
