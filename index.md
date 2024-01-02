@@ -19,8 +19,8 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 ### Session 2
 
 - 10:25 AM - 11:00 AM: [Bart van Bloemen Waander, Sandia](https://www.sandia.gov/ccr/staff/bart-g-van-bloemen-waanders/) (30 mins + 5 mins Q&A)
-- 11:00 AM - 11:15 AM: [Ebeneser Fanijo, GT BC](https://bc.gatech.edu/people/ebenezer-fanijo) (20 mins + 5 mins Q&A)
-- 11:15 AM - 11:30 PM: [Yan Wang, GT MechE](https://research.gatech.edu/yan-wang) (20 mins + 5 mins Q&A)
+- 11:00 AM - 11:15 AM: [Ebeneser Fanijo, GT BC](https://bc.gatech.edu/people/ebenezer-fanijo) (10 mins + 5 mins Q&A)
+- 11:15 AM - 11:30 PM: [Yan Wang, GT MechE](https://research.gatech.edu/yan-wang) (10 mins + 5 mins Q&A)
 
 ### Panel Discussion
 
@@ -31,16 +31,16 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 ### Session 3
 
 - 1:30 PM - 2:05 PM: [Aditi Krishnapriyan, UC Berkeley](https://a1k12.github.io/) (30 mins + 5 mins Q&A)
-- 2:05 PM - 2:20 PM: [Bo Zhu, GT IC](https://faculty.cc.gatech.edu/~bozhu/) (20 mins + 5 mins Q&A)
-- 2:20 PM - 2:35 PM: [Bolei Deng, AE](https://www.boleideng.com/) (20 mins + 5 mins Q&A)
+- 2:05 PM - 2:20 PM: [Bo Zhu, GT IC](https://faculty.cc.gatech.edu/~bozhu/) (10 mins + 5 mins Q&A)
+- 2:20 PM - 2:35 PM: [Bolei Deng, AE](https://www.boleideng.com/) (10 mins + 5 mins Q&A)
 
 **Afternoon Break** 2:35 PM - 2:55 PM (20 mins)
 
 ### Session 4
 
 - 2:55 PM - 3:30 PM: [Guannan Zhang, ORNL](https://www.ornl.gov/staff-profile/guannan-zhang) (30 mins + 5 mins Q&A)
-- 3:30 PM - 3:45 PM: [Lars Ruthotto, Emory Math](https://www.math.emory.edu/~lruthot/) (20 mins + 5 mins Q&A)
-- 3:45 PM - 4:00 PM: [Haomin Zhou, GT Math](https://hmzhou.math.gatech.edu/) (20 mins + 5 mins Q&A)
+- 3:30 PM - 3:45 PM: [Lars Ruthotto, Emory Math](https://www.math.emory.edu/~lruthot/) (10 mins + 5 mins Q&A)
+- 3:45 PM - 4:00 PM: [Haomin Zhou, GT Math](https://hmzhou.math.gatech.edu/) (10 mins + 5 mins Q&A)
 
 ### Panel Discussion and closing 
 
