@@ -20,7 +20,7 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 
 - 10:25 AM - 11:00 AM: [Bart van Bloemen Waander, Sandia](https://www.sandia.gov/ccr/staff/bart-g-van-bloemen-waanders/) (30 mins + 5 mins Q&A)
 - 11:00 AM - 11:15 AM: [Ebeneser Fanijo, GT BC](https://bc.gatech.edu/people/ebenezer-fanijo) (10 mins + 5 mins Q&A)
-- 11:15 AM - 11:30 PM: [Yan Wang, GT MechE](https://research.gatech.edu/yan-wang) (10 mins + 5 mins Q&A)
+- 11:15 AM - 11:30 PM: [Lars Ruthotto, Emory Math](https://www.math.emory.edu/~lruthot/) (10 mins + 5 mins Q&A)
 
 ### Panel Discussion
 
@@ -39,7 +39,7 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 ### Session 4
 
 - 2:55 PM - 3:30 PM: [Guannan Zhang, ORNL](https://www.ornl.gov/staff-profile/guannan-zhang) (30 mins + 5 mins Q&A)
-- 3:30 PM - 3:45 PM: [Lars Ruthotto, Emory Math](https://www.math.emory.edu/~lruthot/) (10 mins + 5 mins Q&A)
+- 3:30 PM - 3:45 PM: [Yan Wang, GT MechE](https://research.gatech.edu/yan-wang) (10 mins + 5 mins Q&A)
 - 3:45 PM - 4:00 PM: [Haomin Zhou, GT Math](https://hmzhou.math.gatech.edu/) (10 mins + 5 mins Q&A)
 
 ### Panel Discussion and closing 
