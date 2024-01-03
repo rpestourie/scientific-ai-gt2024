@@ -2,7 +2,7 @@ Raphaël Pestourie, Peng Chen, Ebeneser Fanijo, Yan Wang
 
 January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 
-**Brief Description** This one-day workshop will be held at Georgia Tech on January 16th, 2024 and convene experts in computational mathematics, statistics, data science, and application domain scientists across science and engineering to address the foundational topics of scientific AI for the prediction and optimization of complex systems (such as electromagnetic, corrosion science). The agenda emphasizes transcending conventional forward simulations and predictions to realize the optimization of complex systems at a large scale by harnessing the power of scientific AI. 
+**Brief Description** This one-day workshop will be held at Georgia Tech on January 16th, 2024 and convene experts in computational mathematics, statistics, data science, and application domain scientists across science and engineering to address the foundational topics of scientific AI for the prediction and optimization of complex systems. The agenda emphasizes transcending conventional forward simulations and predictions to realize the optimization of complex systems at a large scale by harnessing the power of scientific AI. 
 
 ## Schedule
 
@@ -24,15 +24,15 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 
 ### Panel Discussion
 
-- 11:30 AM - 12:30 PM: Panel Discussion with Selected Speakers (60 mins)
+- 11:30 AM - 12:30 PM: Panel Discussion (60 mins)
 
 **Lunch Break and Networking** 12:30 PM - 1:30 PM (60 mins)
 
 ### Session 3
 
-- 1:30 PM - 2:05 PM: [Panos Stinis](https://www.pnnl.gov/people/panos-stinis) (30 mins + 5 mins Q&A)
+- 1:30 PM - 2:05 PM: [Panos Stinis, PNNL](https://www.pnnl.gov/people/panos-stinis) (30 mins + 5 mins Q&A)
 - 2:05 PM - 2:20 PM: [Bo Zhu, GT IC](https://faculty.cc.gatech.edu/~bozhu/) (10 mins + 5 mins Q&A)
-- 2:20 PM - 2:35 PM: [Bolei Deng, AE](https://www.boleideng.com/) (10 mins + 5 mins Q&A)
+- 2:20 PM - 2:35 PM: [Bolei Deng, GT AE](https://www.boleideng.com/) (10 mins + 5 mins Q&A)
 - 2:35 PM - 2:50 PM: [Yan Wang, GT MechE](https://research.gatech.edu/yan-wang) (10 mins + 5 mins Q&A)
 
 **Afternoon Break** 2:50 PM -3:10 PM (20 mins)
@@ -45,7 +45,7 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 
 ### Panel Discussion and closing 
 
-- 4:25 PM - 5:25 PM: Panel Discussion with Selected Speakers (60 mins)
+- 4:25 PM - 5:30 PM: Panel Discussion (65 mins)
 
 ## Workshop Details
 
