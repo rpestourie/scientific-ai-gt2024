@@ -23,7 +23,7 @@ The workshop is jointly sponsored by Georgia Tech's [Institute for Data Engineer
 ### Session 2
 
 - 10:25 AM - 11:00 AM: [Bart van Bloemen Waander, Sandia](https://www.sandia.gov/ccr/staff/bart-g-van-bloemen-waanders/) (30 mins + 5 mins Q&A)
-- 11:00 AM - 11:15 AM: [Ebeneser Fanijo, GT BC](https://bc.gatech.edu/people/ebenezer-fanijo) (20 mins + 5 mins Q&A)
+- 11:00 AM - 11:15 AM: [Amir Poursaee, Clemson](https://www.clemson.edu/cecas/departments/ce/people/faculty/poursaee.html) (20 mins + 5 mins Q&A)
 - 11:25 AM - 11:40 PM: [Lars Ruthotto, Emory Math](https://www.math.emory.edu/~lruthot/) (10 mins + 5 mins Q&A)
 
 ### Panel Discussion
