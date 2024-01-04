@@ -4,9 +4,13 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 
 **Brief Description** This one-day workshop will be held at Georgia Tech on January 16th, 2024 and convene experts in computational mathematics, statistics, data science, and application domain scientists across science and engineering to address the foundational topics of scientific AI for the prediction and optimization of complex systems. The agenda emphasizes transcending conventional forward simulations and predictions to realize the optimization of complex systems at a large scale by harnessing the power of scientific AI. 
 
+Due to venue size, this workshop is invitation only. Please contact one of the organizers if you are interested and not a current invitee.
+
+The workshop is jointly sponsored by Georgia Tech's [Institute for Data Engineering and Science](https://research.gatech.edu/data) and [School of Computational Science and Engineering](https://cse.gatech.edu/). 
+
 ## Schedule
 
-**Opening remarks** 8:45 AM - 9:00 AM: Srinivas Aluru & Haesun Park
+**Opening remarks** 8:45 AM - 9:00 AM: [Srinivas Aluru](https://faculty.cc.gatech.edu/~saluru/) & [Haesun Park](https://faculty.cc.gatech.edu/~hpark/)
 
 ### Session 1
 
@@ -19,12 +23,12 @@ January 16th, 2024 at Georgia Tech, CODA building 13th floor.
 ### Session 2
 
 - 10:25 AM - 11:00 AM: [Bart van Bloemen Waander, Sandia](https://www.sandia.gov/ccr/staff/bart-g-van-bloemen-waanders/) (30 mins + 5 mins Q&A)
-- 11:00 AM - 11:15 AM: [Ebeneser Fanijo, GT BC](https://bc.gatech.edu/people/ebenezer-fanijo) (10 mins + 5 mins Q&A)
-- 11:15 AM - 11:30 PM: [Lars Ruthotto, Emory Math](https://www.math.emory.edu/~lruthot/) (10 mins + 5 mins Q&A)
+- 11:00 AM - 11:15 AM: [Ebeneser Fanijo, GT BC](https://bc.gatech.edu/people/ebenezer-fanijo) (20 mins + 5 mins Q&A)
+- 11:25 AM - 11:40 PM: [Lars Ruthotto, Emory Math](https://www.math.emory.edu/~lruthot/) (10 mins + 5 mins Q&A)
 
 ### Panel Discussion
 
-- 11:30 AM - 12:30 PM: Panel Discussion (60 mins)
+- 11:40 AM - 12:30 PM: Panel Discussion (50 mins)
 
 **Lunch Break and Networking** 12:30 PM - 1:30 PM (60 mins)
 
