@@ -33,6 +33,7 @@ The workshop is jointly sponsored by Georgia Tech's [Institute for Data Engineer
 - 11:40 AM - 12:30 PM: Panel Discussion (50 mins)
 
 Panelists: Prasanna Balaprakash, Bart van Bloemen Waander, Amir Poursaee, Lars Ruthotto
+
 Moderator: Raphael Pestourie
 
 
@@ -58,6 +59,7 @@ Moderator: Raphael Pestourie
 - 4:25 PM - 5:30 PM: Panel Discussion (65 mins)
 
 Panelists: Panos Stinis, Bo Zhu,Guannan Zhang,Aditi Krishnapriyan
+
 Moderator: Peng Chen
 
 ## Workshop Details
