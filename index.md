@@ -1,6 +1,6 @@
 Raphaël Pestourie, Peng Chen, Ebeneser Fanijo, Yan Wang
 
-January 16th, 2024 at Georgia Tech, CODA building 9th floor, Atrium.
+January 16th, 2024 at Georgia Tech, 9th floor Atrium in CODA building, 9th floor Atrium  (756 W Peachtree St NW, Atlanta, GA 30308).
 
 **Brief Description** This one-day workshop will be held at Georgia Tech on January 16th, 2024 and convene experts in computational mathematics, statistics, data science, and application domain scientists across science and engineering to address the foundational topics of scientific AI for the prediction and optimization of complex systems. The agenda emphasizes transcending conventional forward simulations and predictions to realize the optimization of complex systems at a large scale by harnessing the power of scientific AI. 
 
